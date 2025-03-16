@@ -1,6 +1,5 @@
 ### Hi there 👋
-My university-related projects are on a private repository, as I cannot make them public.\
-Please let me know if you need to see those projects.
+My university-related projects are on a private repository, as I cannot make them public.
 <!--
 **CleverCockatoo/CleverCockatoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
